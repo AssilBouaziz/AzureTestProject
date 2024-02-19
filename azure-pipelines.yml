@@ -7,7 +7,7 @@ trigger:
 - none
 
 pool:
-  vmImage: 'windows-latest'
+  name: DevOpsTrain
 
 variables:
   buildPlatform: 'Any CPU'
