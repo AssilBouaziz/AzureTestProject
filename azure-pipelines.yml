@@ -6,8 +6,6 @@
 trigger:
 - none
 
-pool:
-  name: DevOpsTrain
 
 variables:
   buildPlatform: 'Any CPU'
